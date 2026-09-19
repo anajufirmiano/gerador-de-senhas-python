@@ -30,4 +30,4 @@ Projeto simples e funcional desenvolvido em Python para gerar senhas aleatórias
 
 1. Certifique-se de ter o **Python 3** instalado em sua máquina.
 2. Baixe ou clone este repositório:
-   ```bash
+   git clone https://github.com/anajufirmiano/gerador-de-senhas-python.git
